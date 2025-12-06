@@ -1,4 +1,3 @@
 Hey there,
 
-My name is Aditya Jaiswal, studying at Birla Institute of Technology and Science, Pilani campus, India. Im in my 4th year of undergraduate studies in Mechanical engineering.
-
+My name is Aditya Jaiswal. I work on problems in computational science, mainly involving numerical methods, mesh generation, and high-performance computing for scientific applications. My background is in Mechanical Engineering, with research experience across CFD (LBM, multiphase flows), computational geometry, and simulation workflows for engineering systems.
